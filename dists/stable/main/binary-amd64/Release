@@ -1,0 +1,32 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 02 Jun 2025 09:59:18 +0000
+Description: My custom APT repo
+Label: example
+Origin: Kapo
+Suite: stable
+MD5Sum:
+ d8989de2c1d6f6c14ee5fd81727e9127              167 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/Contents-amd64
+ e62ff0123a74adfc6903d59a449cbdb0               40 main/Contents-amd64.gz
+ 3b5196ec9032835d3365608c8cce9241              536 main/binary-amd64/Packages
+ 83c0d357a86fec37550ea32c2fe208f2              399 main/binary-amd64/Packages.gz
+SHA1:
+ 12e95f7e4cbe172148b10893417ab3fe194480f5              167 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/Contents-amd64
+ e3f4c61a216c2c9613cd3bdd1420dde095b296b3               40 main/Contents-amd64.gz
+ d0b4f7b5d82f82f06a0780e32c0b4d7545cb2453              536 main/binary-amd64/Packages
+ 51fe09a6b258e4a92389dee0c7ebec6c6c890e23              399 main/binary-amd64/Packages.gz
+SHA256:
+ 1a1101ba14e5bf380ac056352a91613d6c47faf68c441b701b4162ad6cc88f50              167 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/Contents-amd64
+ e7ab72b8f37c7c9c9f6386fb8e3dfa40bf6fe4b67876703c5927e47cb8664ce4               40 main/Contents-amd64.gz
+ 8e467fea2a6790b8d8b1270018e08df7a92da74462d2541344b0007aa7eef90a              536 main/binary-amd64/Packages
+ 789882f17f05f6aaedcae04568d3a6d4d30ee6b6965006133a99a6a67121c176              399 main/binary-amd64/Packages.gz
+SHA512:
+ 46613f0b98fee4c7a9fbec26e786f835abbf0b396d47a4f6a9c73a04452b67681b20938fc768bba668ff1a4b85f7c60a380a1b45c4d716e662865b4ebe78f2ee              167 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/Contents-amd64
+ 4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 main/Contents-amd64.gz
+ b8f4d92203462f4e98c32664664103c8b4bc984f90062c8ef70cb4724c5e4428e6cd7b57be3c7eff1d9888678dcd563f270b6b10a8cfa55622a0aa143283320c              536 main/binary-amd64/Packages
+ e27e0d0456cfeade2b4f20c509b5e7ac1e0f71f40c4d6c4b8858d82187869285bf6a6b72393dae8f332376c77670e7dcc5dc34f0659adb12cdc782214e92795d              399 main/binary-amd64/Packages.gz
